@@ -4,3 +4,5 @@
 #elasticsearch:7.8.1
 #elasticsearch:7.17.22
 mysql
+nginx:1.27.4
+
