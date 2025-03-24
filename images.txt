@@ -9,4 +9,4 @@ mysql
 redis:7.4.2
 nginx:1.27.4
 goharbor/prepare:v1.9.3
-
+jhsun098/deepseek
