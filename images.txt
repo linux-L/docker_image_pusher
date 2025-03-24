@@ -1,8 +1,10 @@
 #enmotech/opengauss:5.1.0
 #mysql:9.0.0
-#kibana:7.17.22
+kibana:7.17.28
+kibana:7.17.24
 #elasticsearch:7.8.1
-#elasticsearch:7.17.22
+elasticsearch:7.17.24
+elasticsearch:7.17.28
 mysql
 nginx:1.27.4
 
